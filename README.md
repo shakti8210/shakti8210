@@ -1,5 +1,5 @@
 
-![WebDev](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![WebDev](https://www.infrawebtech.in/wp-content/uploads/2020/03/mobile-app-development-technologies-768x303.png)
 # Hey!! Great to see you here!  :-) 
 
 ### <div>I am an enthusiastic, aspiring full stack web developer Passionate about implementing and launching new projects. Also I have made so many type of android apps and has more than 300K downloads one play store.
@@ -10,7 +10,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Learning [React](https://reactjs.org/). 
+* 💻 Learning [React Native](https://reactnative.dev/). 
 
 
 Find out more about me & feel free to connect with me here:
