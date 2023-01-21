@@ -2,7 +2,7 @@
 ![WebDev](https://www.infrawebtech.in/wp-content/uploads/2020/03/mobile-app-development-technologies-768x303.png)
 # Hey!! Great to see you here!  :-) 
 
-### <div>I am an enthusiastic, aspiring full stack web developer Passionate about implementing and launching new projects. Also I have made so many type of android apps and has more than 300K downloads one play store.
+### <div>I am an enthusiastic, aspiring full stack App developer Passionate about implementing and launching new projects. I have made so many type of android apps and has more than 300K downloads one play store.
 </div> 
 
 
@@ -37,10 +37,13 @@ Find out more about me & feel free to connect with me here:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ### 🧩 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React--Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
